@@ -1,4 +1,5 @@
 Pokémon – Command line Game¬¬ (JAVA)
+
 This program is designed to do the following:
 •	Allows players to traverse the map, land in various locations, engage in combat with other players' Pokémon, and capture new Pokémon.
 •	Allowed players to carry 1 Pokémon and carry a few Pokéballs to capture new Pokémon.
