@@ -1,4 +1,4 @@
-Pokémon – Command line Game¬¬ (JAVA)
+Pokémon – Command line Game (JAVA)
 
 This program is designed to do the following:
 
